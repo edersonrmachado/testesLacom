@@ -75,3 +75,6 @@ Ganho aproximado @430MHz = 39.5 dB
 ### 3.3 Conclusões
 
 **O LNA funcionou como esperado para @430~MHz com ganho aproximado de 39dB.**
+
+ok 
+
