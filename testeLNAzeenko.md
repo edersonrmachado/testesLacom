@@ -60,7 +60,7 @@ De acordo com a tabela do LNA o ganho do mesmo deve estar entre 37dB a 42dB, ent
 $S_min=-51,7+37 - 14.7dBm$.    
 $S_min=-51,7+42 - 9.7dBm$.  
 
-$$ -14.7\ dBm \leq S \leq -9.7 \ dBm $$
+$$-14.7\ dBm \leq S \leq -9.7 \ dBm$$
 Notar a questão do PO1dB para não extrapolar a potencia da faixa linear, neste caso esta entre 10dBm e 12dBm, estamos trabalhando com possivel sinal à  aprox -20dB desse valor.  
 
 ### 3.2 Resultado
@@ -76,5 +76,5 @@ Ganho aproximado @430MHz = 39.5 dB
 
 **O LNA funcionou como esperado para @430~MHz com ganho aproximado de 39dB.**
 
-ok 
+
 
