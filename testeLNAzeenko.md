@@ -55,7 +55,7 @@ Inicialmente configurado programa com gnuradio para transmissão no canal TX1 do
 
 ### 3.1 Potencia do sinal esperado
 
-De acordo com a tabela do LNA o ganho do mesmo deve estar entre 37dB a 42dB, então o sinal esperado é de:
+De acordo com a tabela do LNA o ganho do mesmo deve estar entre 37dB a 42dB, considerando a atenuação de 30dB,  então o sinal esperado é de:
 
 $S_{min}=-51,7+37= - 14.7dBm$.    
 $S_{max}=-51,7+42= - 9.7dBm$.  
