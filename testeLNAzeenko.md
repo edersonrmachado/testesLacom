@@ -57,8 +57,8 @@ Inicialmente configurado programa com gnuradio para transmissão no canal TX1 do
 
 De acordo com a tabela do LNA o ganho do mesmo deve estar entre 37dB a 42dB, então o sinal esperado é de:
 
-$S_{min}=-51,7+37 - 14.7dBm$.    
-$S_{max}=-51,7+42 - 9.7dBm$.  
+$S_{min}=-51,7+37= - 14.7dBm$.    
+$S_{max}=-51,7+42= - 9.7dBm$.  
 
 $$-14.7\ dBm \leq S \leq -9.7 \ dBm$$  
 
